@@ -4,8 +4,8 @@
 A playful, tiny time-series forecaster that “guesses tomorrow from yesterday.”  
 Compare 🧠 **Normal Brain** (tiny LSTM) vs 🪄 **Magic Box Brain** (a fun quantum-like layer in PyTorch).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/<YOUR_USERNAME>/<YOUR_REPO>/blob/main/notebooks/QTFT_super_simple_kid_compare.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JUDAH001/QTFT/blob/main/notebooks/QTFT_super_simple_kid_compare.ipynb)
+
 
 ## Why this repo?
 - End-to-end ML workflow: data → model → train → evaluate → compare
