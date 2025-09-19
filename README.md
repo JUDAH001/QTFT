@@ -6,7 +6,6 @@ Compare 🧠 **Normal Brain** (tiny LSTM) vs 🪄 **Magic Box Brain** (a fun qua
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JUDAH001/QTFT/blob/main/notebooks/QTFT_super_simple_kid_compare.ipynb)
 
-
 ## Why this repo?
 - End-to-end ML workflow: data → model → train → evaluate → compare
 - Kid-friendly code and explanations
